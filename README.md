@@ -40,6 +40,10 @@ In addition, it was interesting to explore how inventory applications work. In m
 - The actual code is nested in a file. So you'll first want to change your directory by running `cd inventory-app-1`.
 - Finally by running `python3 app.py` the app should appear on port 8080. Keep in mind that if there is a processes already occuring on this port you will have to terminate it. I usually do this by running `npx kill-port 8080`
 
+
+![image](https://user-images.githubusercontent.com/76107997/169660530-f6958d8b-7a78-4c04-a6f2-30880ec0b0dc.png)
+
+
 # Demo Guide
 
 1. View List of items
