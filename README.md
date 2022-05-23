@@ -43,6 +43,9 @@ In addition, it was interesting to explore how inventory applications work. In m
 
 ![image](https://user-images.githubusercontent.com/76107997/169660530-f6958d8b-7a78-4c04-a6f2-30880ec0b0dc.png)
 
+![Browser Tool Demo](https://user-images.githubusercontent.com/76107997/169737575-2196efbe-270e-4a74-a64d-a957db96f74d.png)
+
+
 
 # Demo Guide
 
